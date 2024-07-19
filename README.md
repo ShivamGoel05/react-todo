@@ -1,1 +1,1 @@
-<a href="https://musicplayerbyshivam.netlify.app/" target="_blank">Check it out</a>
+Check it out: <a href="https://musicplayerbyshivam.netlify.app/" target="_blank">Click here</a>
